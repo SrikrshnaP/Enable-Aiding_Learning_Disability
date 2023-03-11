@@ -1,0 +1,10 @@
+streamlit
+openai
+pyttsx3
+streamlit-chat
+streamlit-drawable-canvas
+glob2
+sounddevice
+scipy
+SpeechRecognition
+Pillow
